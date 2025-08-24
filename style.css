@@ -48,7 +48,6 @@
     align-items: center;
     cursor: pointer;
 }
-
 .search-box button img {
     width: 18px;
     height: 18px;
@@ -56,4 +55,122 @@
 }
 #picture1 img{
     width: 100%;
+}
+.reminder{
+    height: 80px;
+    margin: 30px 50px;
+    border: 1px solid #0b8800;
+    border-radius: 10px;
+}
+#upper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0b8800;
+    color: white;
+    padding: 0 15px;
+    height: 40px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+#upper .left-side {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+#upper .left-side img {
+    height: 25px;
+}
+#upper .right-side {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 14px;
+}
+#upper .right-side img {
+    height: 18px;
+}
+#lower{
+    display: flex;
+    color: #0b8800;
+    position: relative;
+    top: 10px;
+    padding: 0 15px;
+    gap: 10px;
+    
+}
+#lower img{
+    height: 20px;
+}
+.deals{
+    background-color: #f02b2c;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin: 30px 50px;
+    color: white;
+}
+#lighting{
+    height: 25px;
+    margin-left: 45%;
+}
+.products{
+    margin: 0 50px;
+    display: flex;
+    gap: 17px;
+}
+#item_1{
+    height: 330px;
+    width: 250px;
+    border: 2px solid;
+}
+#item_1_img{
+    height: 250px;
+    width: 250px;
+    background-image: url(images/item_1.jpg);
+    background-size:cover;
+}
+#item_2{
+    height: 330px;
+    width: 250px;
+    border: 2px solid;
+}
+#item_2_img{
+    height: 250px;
+    width: 250px;
+    background-image: url(images/item_2.jpg);
+    background-size:cover;
+}
+#item_3{
+    height: 330px;
+    width: 250px;
+    border: 2px solid;
+}
+#item_3_img{
+    height: 250px;
+    width: 250px;
+    background-image: url(images/item_3.jpg);
+    background-size:cover;
+}
+#item_4{
+    height: 330px;
+    width: 250px;
+    border: 2px solid;
+}
+#item_4_img{
+    height: 250px;
+    width: 250px;
+    background-image: url(images/item_4.jpg);
+    background-size:cover;
+}
+#item_5{
+    height: 330px;
+    width: 250px;
+    border: 2px solid;
+}
+#item_5_img{
+    height: 250px;
+    width: 250px;
+    background-image: url(images/item_5.jpg);
+    background-size:cover;
 }
