@@ -174,3 +174,29 @@
     background-image: url(images/item_5.jpg);
     background-size:cover;
 }
+.tcs{
+    background-color: #82819e;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin: 50px;
+    color: white;
+    gap: 10px;
+}
+#taximg{
+    height: 25px;
+    margin-left: 30%;
+}
+.tax{
+    background-color: #0b8800;
+    display: flex;
+    align-items: center;
+    height: 60px;
+    margin: 50px;
+    color: white;
+    gap: 10px;
+}
+#taximg{
+    height: 25px;
+    margin-left: 30%;
+}
