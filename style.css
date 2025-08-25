@@ -463,3 +463,42 @@
     position: relative;
     left: 45%;
 }
+.product-page {
+    display: flex;
+    gap: 40px;
+    margin: 50px;
+  }
+  
+  .product-images img {
+    width: 550px;
+    border-radius: 10px;
+  }
+  
+  .product-info {
+    max-width: 500px;
+  }
+  
+  .price {
+    font-size: 22px;
+    color: #fa7600;
+    font-weight: bold;
+  }
+  
+  .old-price {
+    text-decoration: line-through;
+    color: gray;
+    margin-left: 10px;
+  }
+  
+  .buy-btn {
+    background: #f02b2c;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin: 10px 5px 0 0;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .buy-btn:hover {
+    background: #c90000;
+  }
