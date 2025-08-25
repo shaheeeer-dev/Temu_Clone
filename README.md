@@ -15,8 +15,6 @@ It showcases product sections, smooth navigation, and responsive layouts that re
 <br><br>
 <hr>
 <br>
-<hr>
-<br>
 <h2>🛠️ Technologies Used</h2>
 	<br>•	HTML5 – Page structure
 	<br>•	CSS3 – Styling, layout, and hover effects
