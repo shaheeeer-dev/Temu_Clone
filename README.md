@@ -15,10 +15,6 @@ It showcases product sections, smooth navigation, and responsive layouts that re
 <br><br>
 <hr>
 <br>
-<h2>🖼️ Preview</h2>
-<br>
-![Website Preview](images/screenshot.png)
-<br>
 <hr>
 <br>
 <h2>🛠️ Technologies Used</h2>
